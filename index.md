@@ -9,7 +9,7 @@
 - Avant-Propos
 - I) Jeu de données utilisé
 - II) Visualisations
-  * A. Scatter plot des scores réalisés par les films les plus populaires au cinéma en France de 1945 à 2021
+  * A. Scatter plot des scores réalisés par les films les plus populaires au cinéma en France de 1945 à 2020
   * B. Pie charts présentant une répartition par année des plus gros succès et de leur chiffres au box office
   * C. Circle hierarchy - Vision globale des réalisateurs et des performances globales de leurs films
   * D. Le cinéma français à l'international avec Wikidata Query Service
